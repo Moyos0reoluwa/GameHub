@@ -20,7 +20,7 @@ export default function ContactSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Let's Connect
+          Connect with us
         </motion.h2>
 
         <motion.p
@@ -40,7 +40,7 @@ export default function ContactSection() {
         >
           {/* Email */}
           <a
-            href="mailto:support@gamehub.com"
+            href="mailto:gamehub116@gmail.com"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"
           >
             <FaEnvelope className="text-2xl mb-2" />
@@ -49,7 +49,7 @@ export default function ContactSection() {
 
           {/* Phone */}
           <a
-            href="tel:+1234567890"
+            href="tel:+2347075683672"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"
           >
             <FaPhoneAlt className="text-2xl mb-2" />
@@ -58,7 +58,7 @@ export default function ContactSection() {
 
           {/* WhatsApp */}
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/2347075683672"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"
@@ -69,7 +69,7 @@ export default function ContactSection() {
 
           {/* Twitter */}
           <a
-            href="https://twitter.com/yourhandle"
+            href="https://twitter.com/GameHubUniverse?t=AzWcf4uUo2WM1DI2JkhT4Q&s=35"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"
@@ -80,7 +80,7 @@ export default function ContactSection() {
 
           {/* Instagram */}
           <a
-            href="https://instagram.com/yourhandle"
+            href="https://instagram.com/gamehubuniverse?utm_source=qr&igsh=MWM1aWEzeGcxbzEwZQ=="
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"
@@ -91,7 +91,7 @@ export default function ContactSection() {
 
           {/* Facebook */}
           <a
-            href="https://facebook.com/yourhandle"
+            href="https://facebook.com/share/1Aopy2a7YH/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white shadow-md p-6 rounded-xl hover:bg-blue-50 transition flex flex-col items-center"

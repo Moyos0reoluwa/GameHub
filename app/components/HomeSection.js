@@ -30,7 +30,7 @@ export default function HomeSection() {
             games, controllers and accessories.
           </p>
           <Link
-            href="/products"
+            href="#products"
             className="inline-block px-6 py-3 bg-red-600 text-white font-semibold rounded-lg hover:bg-red-700 transition animate__animated animate__bounce animate__infinite"
           >
             Shop Now
