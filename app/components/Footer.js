@@ -30,13 +30,13 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-2">Follow Us</h4>
           <div className="flex justify-center md:justify-start gap-4 text-lg">
-            <a href="https://facebook.com/yourhandle" target="_blank" rel="noopener noreferrer">
+            <a href="https://facebook.com/share/1Aopy2a7YH/" target="_blank" rel="noopener noreferrer">
               <FaFacebookF className="hover:text-white transition" />
             </a>
-            <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/GameHubUniverse?t=AzWcf4uUo2WM1DI2JkhT4Q&s=35" target="_blank" rel="noopener noreferrer">
               <FaTwitter className="hover:text-white transition" />
             </a>
-            <a href="https://instagram.com/yourhandle" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/gamehubuniverse?utm_source=qr&igsh=MWM1aWEzeGcxbzEwZQ==" target="_blank" rel="noopener noreferrer">
               <FaInstagram className="hover:text-white transition" />
             </a>
           </div>

@@ -9,22 +9,22 @@ export default function ProductSection() {
     {
       name: "PlayStation",
       href: "/playstation",
-      image: "/images/img.png",
+      image: "/images/playstation.png",
     },
     {
       name: "Xbox",
       href: "/xbox",
-      image: "/images/img.png",
+      image: "/images/xbox.png",
     },
     {
       name: "Nintendo",
       href: "/nintendo",
-      image: "/images/img.png",
+      image: "/images/nintendo.png",
     },
     {
       name: "Other Products",
       href: "/others",
-      image: "/images/img.png", 
+      image: "/images/otherproducts.png", 
     },
   ];
 

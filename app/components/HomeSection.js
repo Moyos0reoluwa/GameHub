@@ -25,7 +25,7 @@ export default function HomeSection() {
             Welcome to <span className="text-blue-300">GameHub</span>{" "}
             <span className="text-red-400">Universe</span>
           </h1>
-          <p className="text-lg sm:text-xl text-white/90 mb-8 max-w-xl mx-auto">
+          <p className="text-lg sm:text-xl text-white/90 mb-12 max-w-xl mx-auto">
             Your one-stop shop for PlayStation, Xbox, and Nintendo consoles,
             games, controllers and accessories.
           </p>
