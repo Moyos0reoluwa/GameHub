@@ -35,7 +35,7 @@ export default function AboutSection() {
           viewport={{ once: true }}
         >
           <Image
-            src="/img.png"
+            src="/aboutus.png"
             alt="About GameHub"
             width={500}
             height={400}
