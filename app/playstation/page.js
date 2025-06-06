@@ -18,7 +18,7 @@ export default function PlayStationPage() {
               height={200}
               className="w-full h-48 object-contain mb-4"
             />
-            <h2 className="text-xl font-semibold">{product.name}</h2>
+            <h2 className="text-xl font-semibold text-gray-900">{product.name}</h2>
             <p className="text-gray-700 text-lg mb-2">${product.price.toFixed(2)}</p>
             <button className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition">
               Buy Now
