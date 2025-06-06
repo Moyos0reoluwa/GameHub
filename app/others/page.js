@@ -18,8 +18,8 @@ export default function OtherProductsPage() {
               height={200}
               className="object-contain w-full h-48 mb-4"
             />
-            <h2 className="text-xl font-semibold mb-2">{product.name}</h2>
-            <p className="text-lg text-gray-800 mb-4">${product.price.toFixed(2)}</p>
+            <h2 className="text-xl font-semibold mb-2 text-gray-900">{product.name}</h2>
+            <p className="text-lg text-gray-700 mb-4">${product.price.toFixed(2)}</p>
             <button className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition">
               Buy Now
             </button>
