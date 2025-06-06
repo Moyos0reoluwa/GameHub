@@ -5,7 +5,7 @@ export default function NintendoPage() {
   const nintendoProducts = products.filter((item) => item.category === "nintendo");
 
   return (
-    <main className="min-h-screen bg-white pt-24 px-4 sm:px-8">
+    <main className="min-h-screen bg-gradient-to-br from-blue-100 to-red-100 pt-24 px-4 sm:px-8">
       <h1 className="text-3xl sm:text-4xl font-bold text-red-600 mb-8">Nintendo Products</h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
