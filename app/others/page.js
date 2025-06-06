@@ -5,7 +5,7 @@ export default function OtherProductsPage() {
   const otherProducts = products.filter((item) => item.category === "other");
 
   return (
-    <div className="min-h-screen pt-24 px-6 bg-white">
+    <div className="min-h-screen pt-24 px-6 bg-gradient-to-br from-blue-100 to-red-100">
       <h1 className="text-4xl font-bold text-red-600 mb-8">Other Products</h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
